@@ -1,4 +1,4 @@
-# Horloge-Mondiale
+# Horloge-Mondiale ⏰🌎
 
 Ce projet Github est une migration d'une application d'horloge qui a été initialement écrite en utilisant des composants de classe vers une syntaxe plus moderne en utilisant des hooks de React. Les composants de classe sont remplacés par des fonctions qui utilisent les hooks useState et useEffect pour la gestion de l'état et des effets de bord. La migration de la classe vers la fonction a été réalisée conformément à la documentation officielle de React.
 
