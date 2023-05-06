@@ -12,4 +12,4 @@ L'application Horloge-Mondiale utilise la bibliothèque React JS pour le dévelo
 
 ## Demonstration
 
-![giphy](./public/horloge.mp4)
+![giphy](./public/giphy.gif)
