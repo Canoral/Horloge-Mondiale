@@ -1,0 +1,24 @@
+.Clock {
+  width: 50%;
+  margin: 2rem auto;
+  background-color: #FFFFFF;
+  padding: 0.5rem;
+  border-radius: 1rem;
+
+  &-time {
+    font-size: 3rem;
+    font-family: aldrich, sans-serif;
+    display: flex;
+
+    & span {
+      width: 30%;
+    }
+  }
+
+  &-close {
+    float: right;
+    font-size: 0.7rem;
+    border: none;
+    border-radius: 0.5rem;
+  }
+}
